@@ -1,0 +1,40 @@
+# 1. Predator model experiment - behaviours
+Here we analyse the behavioural responses (all but vocal responses) of sooty mangabeys when presented with realistic models of leopard, eagle and viper (Gaboon and Rhinoceros). 
+
+## Data
+```r
+# Dataset
+# select the datafile "mangabey behaviour2" #NEED TO UPLOAD THE FILE ONCE WITH ONLY RELEVANT COLUMNS
+csvFile <- file.choose()
+
+dm_b2 = read.csv(csvFile, header=T)
+```
+
+## Sample size
+```r
+# Number of individuals per condition
+dm_b2 %>% 
+  group_by(context_experiment) %>% 
+  summarise(unique_ids = n_distinct(id))
+  
+# Table (wide format) with the number of occurrences  of behaviour per condition
+dm_b2_summary <- dm_b2 %>% 
+  filter(!is.na(behaviour3)) %>% 
+  group_by(context_experiment, behaviour3) %>%
+  summarise(occurrences = n(), .groups = "drop") %>%  
+  pivot_wider(names_from = behaviour3, values_from = occurrences, values_fill = list(occurrences = 0))
+
+# Table (long format) with the number of occurrences  of behaviour per condition and the number of individuals
+dm_b2_summary2 <- dm_b2 %>%
+  filter(!is.na(behaviour3)) %>% 
+  group_by(context_experiment, behaviour3) %>%
+  summarise(occurrences = n(), individuals = n_distinct(id), .groups = "drop")
+```
+```r
+# Table number of behaviour occurrences recorded per condition with number of individuals in brackets
+| Condition          | Approach model  | Bipedal | Flee down | Flee straight | Flee up | Move down | Move up | Tail  | Yawn |
+|--------------------|---------------  |---------|-----------|-----------    |---------|---------  |------   |------ |------|
+| Eagle (N=8)        | 1(1)            | 5(4)    | 2(2)      | 1(1)          | 2(2)    | 3(3)      | 1(1)    | 10(6) | 3(2) |
+| Leopard (N=9)      | 0(0)            | 0(0)    | 0(0)      | 0(0)          | 9(9)    | 0(0)      | 1(1)    | 1(1)  | 0(0) |
+| Viper (N=10)       | 3(3)            | 4(4)    | 0(0)      | 5(5)          | 4(4)    | 1(1)      | 5(5)    | 5(4)  | 0(0) |
+```
