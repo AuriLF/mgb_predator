@@ -1,0 +1,9 @@
+Libraries needed to run the script 
+```r
+library(tidyverse)
+library(dplyr) 
+library(readxl)
+library(ggplot2)
+library(brms)
+library(emmeans)
+```
