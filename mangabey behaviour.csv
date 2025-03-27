@@ -1,0 +1,104 @@
+date,group,exp_id,id,sex,ageclass,context_experiment,behaviour,behaviour2,behaviour3,time_calibrated,position,flee_direction,flee_duration
+03/02/2015,TCP,EXP1,ID1,m,subadult,viper,a,Start approaching,Approach model,14.018,2,NA,NA
+03/02/2015,TCP,EXP1,ID1,m,subadult,viper,h,End approaching,NA,25.011,1,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,t,Tail raises,Tail raises,3.003,2,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,a,Start approaching,Approach model,7.01,2,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,h,End approaching,NA,10.016,1,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,t,Tail raises,Tail raises,12.001,1,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,u,Start moving up,Move up,18.022,1,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,p,End moving up,NA,22.011,2,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,t,Tail raises,Tail raises,22.02,2,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,d,Start moving down,Move down,25.011,2,NA,NA
+13/03/2023,TCP,EXP10,ID10,m,adult,eagle,n,End moving down,NA,27.013,1,NA,NA
+27/03/2023,TCP,EXP11,ID7,f,adult,eagle,b,Bipedal,Bipedal,16.983,2,NA,6.007
+27/03/2023,TCP,EXP11,ID7,f,adult,eagle,f,Start fleeing,Flee down,17.977,2,down,6.007
+27/03/2023,TCP,EXP11,ID7,f,adult,eagle,e,End fleeing,NA,23.984,1,down,6.007
+02/04/2023,TCP,EXP12,ID8,m,subadult,leopard,f,Start fleeing,Flee up,0.017,1,up,5.992
+02/04/2023,TCP,EXP12,ID8,m,subadult,leopard,e,End fleeing,NA,6.009,3,up,5.992
+02/04/2023,TCP,EXP12,ID8,m,subadult,leopard,t,Tail raises,Tail raises,7.013,3,NA,5.992
+02/04/2023,TCP,EXP12,ID8,m,subadult,leopard,u,Start moving up,Move up,22.014,3,NA,5.992
+04/05/2023,TCP,EXP13,ID11,m,adult,leopard,f,Start fleeing,Flee up,3.011,2,up,13.998
+04/05/2023,TCP,EXP13,ID11,m,adult,leopard,e,End fleeing,NA,17.009,3,up,13.998
+08/05/2023,TCP,EXP14,ID12,m,subadult,eagle,f,Start fleeing,Flee up,0.996,1,up,5.027
+08/05/2023,TCP,EXP14,ID12,m,subadult,eagle,e,End fleeing,NA,6.023,3,up,5.027
+08/05/2023,TCP,EXP14,ID12,m,subadult,eagle,t,Tail raises,Tail raises,8.997,3,NA,5.027
+08/05/2023,TCP,EXP14,ID12,m,subadult,eagle,y,Yawn,Yawn,9.012,3,NA,5.027
+08/05/2023,TCP,EXP14,ID12,m,subadult,eagle,d,Start moving down,Move down,18.019,3,NA,5.027
+08/05/2023,TCP,EXP14,ID12,m,subadult,eagle,n,End moving down,NA,27.02,2,NA,5.027
+12/05/2023,TCP,EXP15,ID13,f,adult,viper,f,Start fleeing,Flee straight,0.032,1,same,0.979
+12/05/2023,TCP,EXP15,ID13,f,adult,viper,e,End fleeing,NA,1.011,1,same,0.979
+12/05/2023,TCP,EXP15,ID13,f,adult,viper,b,Bipedal,Bipedal,1.043,1,NA,0.979
+12/05/2023,TCP,EXP15,ID13,f,adult,viper,u,Start moving up,Move up,18.015,1,NA,0.979
+12/05/2023,TCP,EXP15,ID13,f,adult,viper,p,End moving up,NA,19.03,2,NA,0.979
+12/05/2023,TCP,EXP15,ID13,f,adult,viper,t,Tail raises,Tail raises,21.017,2,NA,0.979
+14/05/2023,TCP,EXP16,ID14,f,adult,leopard,f,Start fleeing,Flee up,1.017,2,up,2.996
+14/05/2023,TCP,EXP16,ID14,f,adult,leopard,e,End fleeing,NA,4.013,3,up,2.996
+28/05/2023,TCP,EXP17,ID12,m,subadult,leopard,f,Start fleeing,Flee up,1.039,1,up,3.952
+28/05/2023,TCP,EXP17,ID12,m,subadult,leopard,e,End fleeing,NA,4.991,3,up,3.952
+03/06/2023,TCP,EXP18,ID15,m,subadult,viper,f,Start fleeing,Flee up,0.005,1,up,0.999
+03/06/2023,TCP,EXP18,ID15,m,subadult,viper,e,End fleeing,NA,1.004,2,up,0.999
+03/06/2023,TCP,EXP18,ID15,m,subadult,viper,d,Start moving down,Move down,5.017,2,NA,0.999
+03/06/2023,TCP,EXP18,ID15,m,subadult,viper,n,End moving down,NA,7.006,1,NA,0.999
+03/06/2023,TCP,EXP18,ID15,m,subadult,viper,b,Bipedal,Bipedal,11.016,1,NA,0.999
+03/06/2023,TCP,EXP18,ID15,m,subadult,viper,u,Start moving up,Move up,14.002,1,NA,0.999
+03/06/2023,TCP,EXP18,ID15,m,subadult,viper,p,End moving up,NA,15.021,2,NA,0.999
+14/06/2023,TCP,EXP19,ID11,m,adult,eagle,b,Bipedal,Bipedal,1.008,2,NA,2.995
+14/06/2023,TCP,EXP19,ID11,m,adult,eagle,f,Start fleeing,Flee up,1.991,2,up,2.995
+14/06/2023,TCP,EXP19,ID11,m,adult,eagle,e,End fleeing,NA,4.986,3,up,2.995
+26/03/2022,TCP,EXP2,ID2,f,adult,viper,f,Start fleeing,Flee up,3.01,1,up,2.985
+26/03/2022,TCP,EXP2,ID2,f,adult,viper,e,End fleeing,NA,5.995,2,up,2.985
+26/03/2022,TCP,EXP2,ID2,f,adult,viper,u,Start moving up,Move up,12.993,2,NA,2.985
+26/03/2022,TCP,EXP2,ID2,f,adult,viper,p,End moving up,NA,14.001,2,NA,2.985
+19/06/2023,TCP,EXP20,ID10,m,adult,leopard,f,Start fleeing,Flee up,0.017,1,up,12.986
+19/06/2023,TCP,EXP20,ID10,m,adult,leopard,e,End fleeing,NA,13.003,3,up,12.986
+29/09/2023,TCP,EXP21,ID10,m,adult,viper,f,Start fleeing,Flee straight,0.001,1,same,1.007
+29/09/2023,TCP,EXP21,ID10,m,adult,viper,e,End fleeing,NA,1.008,1,same,1.007
+29/09/2023,TCP,EXP21,ID10,m,adult,viper,t,Tail raises,Tail raises,3.023,1,NA,1.007
+29/09/2023,TCP,EXP21,ID10,m,adult,viper,b,Bipedal,Bipedal,9.01,1,NA,1.007
+29/09/2023,TCP,EXP21,ID10,m,adult,viper,t,Tail raises,Tail raises,13.001,1,NA,1.007
+29/09/2023,TCP,EXP21,ID10,m,adult,viper,a,Start approaching,Approach model,22.013,1,NA,1.007
+29/09/2023,TCP,EXP21,ID10,m,adult,viper,h,End approaching,NA,26.022,1,NA,1.007
+15/10/2023,TCP,EXP22,ID8,m,subadult,viper,f,Start fleeing,Flee up,0.007,1,up,0.997
+15/10/2023,TCP,EXP22,ID8,m,subadult,viper,e,End fleeing,NA,1.004,2,up,0.997
+15/10/2023,TCP,EXP22,ID8,m,subadult,viper,t,Tail raises,Tail raises,24,2,NA,0.997
+25/10/2023,TCP,EXP23,ID16,m,subadult,viper,f,Start fleeing,Flee straight,0.003,2,same,1.998
+25/10/2023,TCP,EXP23,ID16,m,subadult,viper,e,End fleeing,NA,2.001,2,same,1.998
+25/10/2023,TCP,EXP23,ID16,m,subadult,viper,t,Tail raises,Tail raises,3.017,2,NA,1.998
+31/05/2022,TMP,EXP24,ID17,f,adult,viper,f,Start fleeing,Flee straight,1.013,1,same,1.986
+31/05/2022,TMP,EXP24,ID17,f,adult,viper,e,End fleeing,NA,2.999,1,same,1.986
+31/05/2022,TMP,EXP24,ID17,f,adult,viper,a,Start approaching,Approach model,13.983,1,NA,1.986
+31/05/2022,TMP,EXP24,ID17,f,adult,viper,h,End approaching,NA,28.984,2,NA,1.986
+23/03/2023,TCP,EXP25,ID18,m,adult,leopard,f,Start fleeing,Flee up,15.02,1,up,7.99
+23/03/2023,TCP,EXP25,ID18,m,adult,leopard,e,End fleeing,NA,23.01,2,up,7.99
+31/05/2023,TCP,EXP26,ID18,m,adult,eagle,f,Start fleeing,Flee down,4.992,2,down,2.002
+31/05/2023,TCP,EXP26,ID18,m,adult,eagle,e,End fleeing,NA,6.994,1,down,2.002
+31/05/2023,TCP,EXP26,ID18,m,adult,eagle,t,Tail raises,Tail raises,8,1,NA,2.002
+31/05/2023,TCP,EXP26,ID18,m,adult,eagle,y,Yawn,Yawn,14.002,1,NA,2.002
+31/05/2023,TCP,EXP26,ID18,m,adult,eagle,y,Yawn,Yawn,18,1,NA,2.002
+12/10/2023,TCP,EXP27,ID12,m,subadult,viper,f,Start fleeing,Flee up,1.014,1,up,1.999
+12/10/2023,TCP,EXP27,ID12,m,subadult,viper,e,End fleeing,NA,3.013,2,up,1.999
+12/10/2023,TCP,EXP27,ID12,m,subadult,viper,u,Start moving up,Move up,15.004,1,NA,1.999
+12/10/2023,TCP,EXP27,ID12,m,subadult,viper,p,End moving up,NA,24.01,3,NA,1.999
+29/05/2022,TMP,EXP3,ID3,m,subadult,leopard,f,Start fleeing,Flee up,0.98,1,up,5.018
+29/05/2022,TMP,EXP3,ID3,m,subadult,leopard,e,End fleeing,NA,5.998,3,up,5.018
+25/06/2022,TMP,EXP4,ID4,f,adult,eagle,b,Bipedal,Bipedal,4.994,1,NA,NA
+25/06/2022,TMP,EXP4,ID4,f,adult,eagle,t,Tail raises,Tail raises,15.993,1,NA,NA
+25/06/2022,TMP,EXP4,ID4,f,adult,eagle,t,Tail raises,Tail raises,19.99,1,NA,NA
+25/06/2022,TMP,EXP4,ID4,f,adult,eagle,b,Bipedal,Bipedal,20,1,NA,NA
+06/07/2022,TMP,EXP5,ID5,f,subadult,viper,f,Start fleeing,Flee straight,0.011,1,same,0.997
+06/07/2022,TMP,EXP5,ID5,f,subadult,viper,e,End fleeing,NA,1.008,1,same,0.997
+06/07/2022,TMP,EXP5,ID5,f,subadult,viper,b,Bipedal,Bipedal,2.01,1,NA,0.997
+06/07/2022,TMP,EXP5,ID5,f,subadult,viper,u,Start moving up,Move up,16.998,1,NA,0.997
+06/07/2022,TMP,EXP5,ID5,f,subadult,viper,p,End moving up,NA,24.015,2,NA,0.997
+12/02/2023,TCP,EXP6,ID6,m,subadult,eagle,f,Start fleeing,Flee up,0.991,1,up,0.998
+12/02/2023,TCP,EXP6,ID6,m,subadult,eagle,e,End fleeing,NA,1.989,2,up,0.998
+12/02/2023,TCP,EXP6,ID6,m,subadult,eagle,d,Start moving down,Move down,6.993,2,NA,0.998
+12/02/2023,TCP,EXP6,ID6,m,subadult,eagle,n,End moving down,NA,8.994,1,NA,0.998
+12/02/2023,TCP,EXP6,ID6,m,subadult,eagle,t,Tail raises,Tail raises,9,1,NA,0.998
+17/02/2023,TCP,EXP7,ID7,f,adult,leopard,f,Start fleeing,Flee up,0.988,1,up,16.002
+17/02/2023,TCP,EXP7,ID7,f,adult,leopard,e,End fleeing,NA,16.99,3,up,16.002
+23/02/2023,TCP,EXP8,ID8,m,subadult,eagle,t,Tail raises,Tail raises,3.007,1,NA,NA
+23/02/2023,TCP,EXP8,ID8,m,subadult,eagle,b,Bipedal,Bipedal,17.023,1,NA,NA
+23/02/2023,TCP,EXP8,ID8,m,subadult,eagle,t,Tail raises,Tail raises,17.034,1,NA,NA
+07/03/2023,TCP,EXP9,ID9,f,adult,leopard,f,Start fleeing,Flee up,2.998,2,up,3.003
+07/03/2023,TCP,EXP9,ID9,f,adult,leopard,e,End fleeing,NA,6.001,3,up,3.003
