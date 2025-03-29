@@ -28,10 +28,11 @@ Alex comments
 -model element interval vs condition: distribution (family) is not gamma but rather log normal, also here consider removing id as random effect
 
 
-Klaus 
-
-Reaction of mangabeys to leopard are staying around vs chimps where they flee far; discuss tail raise (social role, age class, distance to predator)
-
 -model utterance type vs condition: put trial_id as random effect and not total utt; here again consider removing id as random effect
 
 -pairwise comparisons: keep in mind that they might be not relevant so instead we can compare mean posterior with ci and if ci are not overlapping then there is a difference
+
+
+Klaus 
+
+Reaction of mangabeys to leopard are staying around vs chimps where they flee far; discuss tail raise (social role, age class, distance to predator)
