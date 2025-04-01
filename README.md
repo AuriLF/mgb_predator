@@ -4,13 +4,17 @@ This repository contains the following elements:
    
 -**0. R packages & libraries.md** = R packages needed to run the scripts
    
--**1. Predator model experiments - behaviour.md** = analyses of all behaviours but vocal responses
+-**1. Behaviours.md** = analyses of all behaviours but vocal responses
    
--**2. Predator model experiments - vocal response.md** = analyses of vocal responses
+-**2. Vocal responses - acoustic analyses (pDFA).md** = analyses of sound elements using a set of acoustic parameters extracted from Raven Pro
 
--**mangabey behaviour.csv** = dataset used in 1. Predator model experiments - behaviour
+-**3. Vocal responses - utterance composition.md** = analyses of utterance composition (i.e., structure)
 
--**mangabey call wide.csv** = dataset used in 2. Predator model experiments - vocal response.md = analyses of vocal responses
+-**mangabey behaviour.csv** = dataset used in 1
+
+-**mangabey call wide.csv** = dataset used in 2
+
+-**mangabey call acoustic.csv.csv** = dataset used in 2
 
 
 Alex comments
