@@ -14,9 +14,9 @@ This repository contains the following elements:
 
 -**mangabey call wide.csv** = dataset used in 2
 
--**mangabey call acoustic.csv.csv** = dataset used in 2
+-**mangabey call acoustic.csv** = dataset used in 2 & 3 
 
-
+--------
 Alex comments
 
 -ensure that it is clear that I am tallking about the initial response of the first individual spotting the model (first 30s) not group response because after that all sorts of behaviours can happen (approaching, mobbing etc). 
@@ -28,15 +28,12 @@ Alex comments
 -discuss that the size of the individual might play a role in escape response (the bigger you are, less likely you are to get attacked by an eagle
 
 
--model element interval vs condition: distribution (family) is not gamma but rather log normal, also here consider removing id as random effect
-
-
 -for bayesian models we cannot use bonferonni correction because no p values. check there https://easystats.github.io/blog/posts/bayestestr_emmeans/ how to run pairwise
 
 
 -pairwise comparisons: keep in mind that they might be not relevant so instead we can compare mean posterior with ci and if ci are not overlapping then there is a difference
 
 
-Klaus 
+Klaus comments
 
 Reaction of mangabeys to leopard are staying around vs chimps where they flee far; discuss tail raise (social role, age class, distance to predator)
