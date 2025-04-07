@@ -23,7 +23,7 @@ Analysis flee duration: add trials with no flee with time = 0. Then change varia
 
 Analysis flee direction: variable response would be climb up in the trees yes/no, then add trials when they don't flee toghether with flee down or straigh in 'no' and flee up in 'yes'
 
-Analysis nb vocal uterances: add 0 if no vocal responses
+Analysis nb vocal uterances: add 0 if no vocal responses. Maybe change variable, finding a way to get the information of both how many shrills or overall elements, intervals, length of utterances, because when we zoom on the elements in first utterances we have lots of variations.
 
 Graphs: change yellow colour into more dark colour
 
