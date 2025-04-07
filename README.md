@@ -17,6 +17,24 @@ This repository contains the following elements:
 -**mangabey call acoustic.csv** = dataset used in 2 & 3 
 
 --------
+Feedback presentation TCP lab meeting + Klaus 07/04/2025
+
+Analysis flee duration: add trials with no flee with time = 0. Then change variable name from flee to something like 'time spend moving away/fleeing'
+
+Analysis flee direction: variable response would be climb up in the trees yes/no, then add trials when they don't flee toghether with flee down or straigh in 'no' and flee up in 'yes'
+
+Analysis nb vocal uterances: add 0 if no vocal responses
+
+Graphs: change yellow colour into more dark colour
+
+pDFA: check if we need to remove corellated parameters or not
+
+Check shrill acoustic properties depending on position in utterance/call/sequence?
+
+Discussion: hoos might be fore more serious danger; adult males might have difference vocal responses to eagle for mobbing; check closest relative alarm system so see if it they have general alarm to eagle and leopard or not. also for viper or snakes
+
+
+--------
 Alex comments
 
 -ensure that it is clear that I am tallking about the initial response of the first individual spotting the model (first 30s) not group response because after that all sorts of behaviours can happen (approaching, mobbing etc). 
